@@ -7,6 +7,23 @@ We simply build one interface in
  <i>Angular 4 Application</i> and then call an <i>API</i> to 
  <i>store</i>, <i>retrieve</i>, <i>update</i> and <i>delete</i> the data.
 
+
+## Prerequisites
+<ul>
+    <li>
+       Laravel 5
+    </li>
+    <li>
+       Apache
+    </li>
+    <li> 
+       MySQL
+    </li>
+    <li>
+       PHP, Composer installed.
+    </li>
+</ul>
+
 ## Run the site
  After you have cloned or downloaded the project, navigate to the corresponding directory
   <ul>
