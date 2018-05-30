@@ -77,7 +77,7 @@ Site gives the following <i>API</i>:
   </li>
   <li>
     Deletes a student by id: <br/>
-    http://{your-domain}/api/v1/students/{id}<br/><br/>
+    DELETE http://{your-domain}/api/v1/students/{id}<br/><br/>
     <i><u>URI Parameters</u> </i><br/>
     id: Required, identifier of student<br/><br/>
   </li>
